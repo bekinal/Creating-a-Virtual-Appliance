@@ -17,13 +17,13 @@ Project consists of creating a virtual appliance that can be used later without 
 <br />
 <br />
 
-h2>Downloading BGInfo:</h2>
+<h2>Downloading BGInfo:</h2>
 :<br/>
 <img src="" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-h2>Launching the OCI:</h2>
+<h2>Launching the OCI:</h2>
 :<br/>
 <img src="" width="80%" alt="Disk Sanitization Steps"/>
 <br />
